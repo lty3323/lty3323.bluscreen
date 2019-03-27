@@ -4,17 +4,12 @@
 
 진주고등학교의 컴퓨터 동아리 블루스크린입니다.
 
-Syntax highlighted code block
+여러가지 분야별로 나뉘어져있습니다.
 
-# Bluescreen 1  
-## Bluescreen 2
-### Bluescreen 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- 게임(유니티)
+- 프로그램
+- 앱
+- 프로그램
 
 **Jinju Highschool** and _Jinju middle school_
 
