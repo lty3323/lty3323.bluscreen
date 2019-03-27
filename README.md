@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Jinju Highschool** and _Italic_ and 
 
-[Naver]<a href="http://www.naver.com">네이버</a>
+<a href="http://www.naver.com">네이버</a>
 ```
 
 ### Jekyll Themes
