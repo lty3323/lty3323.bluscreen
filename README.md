@@ -4,7 +4,6 @@
 
 진주고등학교의 컴퓨터 동아리 블루스크린입니다.
 
-```markdown
 Syntax highlighted code block
 
 # Bluescreen 1  
@@ -19,8 +18,7 @@ Syntax highlighted code block
 
 **Jinju Highschool** and _Jinju middle school_
 
-[naver](https://github.com/lty3323/lty3323.github.io/settings)
-```
+[naver](naver.com)
 
 ### Jekyll Themes
 
