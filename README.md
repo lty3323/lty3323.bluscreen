@@ -1,12 +1,8 @@
-Welcome to Bluescreen Homepage
+블루스크린 홈페이지에 오신것을 환영합니다
 
-You can use the [editor on GitHub](https://github.com/lty3323/lty3323.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 소개말
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-YEeEEEEH
+진주고등학교의 컴퓨터 동아리 블루스크리입니다.
 
 ```markdown
 Syntax highlighted code block
