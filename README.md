@@ -23,10 +23,8 @@ Syntax highlighted code block
 
 **Jinju Highschool** and _Italic_ and 
 
-[Naver](naver.com) [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Naver](naver.com) 
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
