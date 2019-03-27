@@ -13,7 +13,7 @@
 
 **Jinju Highschool** and _Jinju middle school_
 
-[naver](naver.com)
+[Naver](naver.com)홈페이지에서 진주고등학교 검색 혹은 진주고등학교 [홈페이지 바로가기](http://jinju-h.gne.go.kr/jinju-h/main.do)
 
 ### Jekyll Themes
 
