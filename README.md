@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Jinju Highschool** and _Italic_ and 
 
-[http://jinju-h.gn]and ![https://blog.naver.com/bshsnr90/70132460665](src)
+[Jinju homepages](http://jinju-h.gne.go.kr/)and ![https://blog.naver.com/bshsnr90/70132460665](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
