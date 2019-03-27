@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Jinju Highschool** and _Italic_ and 
+**Jinju Highschool** and _Jinju middle school_
 
 [naver](https://github.com/lty3323/lty3323.github.io/settings)
 ```
