@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Jinju Highschool` text
+**Jinju Highschool** and _Italic_ and 
 
 [http://jinju-h.gne.go.kr/]and ![https://blog.naver.com/bshsnr90/70132460665](src)
 ```
