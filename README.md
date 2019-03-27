@@ -2,7 +2,7 @@
 
 ### 소개말
 
-진주고등학교의 컴퓨터 동아리 블루스크리입니다.
+진주고등학교의 컴퓨터 동아리 블루스크린입니다.
 
 ```markdown
 Syntax highlighted code block
